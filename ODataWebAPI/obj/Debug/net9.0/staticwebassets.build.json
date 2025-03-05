@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "q/Vkc1Q8xNdTkKwIABIYXxbl8M/+T61Aoht3SR4wssc=",
+  "Source": "ODataWebAPI",
+  "BasePath": "_content/ODataWebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
