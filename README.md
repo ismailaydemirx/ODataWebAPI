@@ -203,7 +203,7 @@ public sealed class TestController(ApplicationDbContext context) : ControllerBas
 
 Bu işlemler tamamlandıktan sonra, API'ye gönderilen isteklerde **Query Parameters** bölümüne gerekli filtreleme kriterlerini ekleyebiliriz. Controller içinde veriyi **Queryable** olarak çağırmamız, **Program.cs** dosyasında `app.Run()` komutundan önce `app.MapControllers()` metodunun çağrıldığını gösterir. Bu yapı sayesinde, **Queryable** olarak alınan filtreleme parametreleri **Query** nesnesine entegre edilerek işlenir ve ardından yürütülür.
 
-![image.png](attachment:b3e28805-f749-4312-9a7c-ddacaa4abdd7:image.png)
+![image](https://github.com/user-attachments/assets/bfd3a109-f833-41ff-8c95-e652291bbaab)
 
 
 ### **OData Query Parametrelerini Kullanma**
